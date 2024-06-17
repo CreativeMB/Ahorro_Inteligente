@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ahorro Inteligente</string>
+    <string name="title_home">Caja</string>
+    <string name="title_dashboard">Mes</string>
+    <string name="title_notifications">Todo</string>
+    <string name="default_web_client_id">43757389349-ulgnf5gro1qhjgq235no6ia6pn0rcsua.apps.googleusercontent.com</string>
+</resources>
